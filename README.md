@@ -72,9 +72,8 @@ analysis.plot_rolling_volatility()
 ```
 
 ## License
-This project is released under a **Dual License**:
-- **MIT License** for permissive open-source use.
-- **GPL-3.0** for those who prefer stricter copyleft terms.
+This project is released under a **MIT License**.
+
 
 ## Contributions
 We welcome contributions! Feel free to submit pull requests or open issues.
